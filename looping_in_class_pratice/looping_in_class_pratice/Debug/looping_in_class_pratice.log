@@ -1,0 +1,4 @@
+﻿  source.cpp
+c:\users\curri\onedrive\documents\visual studio 2015\projects\looping_in_class_pratice\looping_in_class_pratice\source.cpp(36): warning C4390: ';': empty controlled statement found; is this the intent?
+  looping_in_class_pratice.vcxproj -> C:\Users\Curri\OneDrive\Documents\Visual Studio 2015\Projects\looping_in_class_pratice\Debug\looping_in_class_pratice.exe
+  looping_in_class_pratice.vcxproj -> C:\Users\Curri\OneDrive\Documents\Visual Studio 2015\Projects\looping_in_class_pratice\Debug\looping_in_class_pratice.pdb (Full PDB)
