@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\curri\onedrive\documents\visual studio 2015\projects\first_array_practice\first_array_practice\source.cpp(19): warning C4101: 'newint': unreferenced local variable
+  First_Array_Practice.vcxproj -> c:\users\curri\onedrive\documents\visual studio 2015\Projects\First_Array_Practice\Debug\First_Array_Practice.exe
+  First_Array_Practice.vcxproj -> c:\users\curri\onedrive\documents\visual studio 2015\Projects\First_Array_Practice\Debug\First_Array_Practice.pdb (Full PDB)
