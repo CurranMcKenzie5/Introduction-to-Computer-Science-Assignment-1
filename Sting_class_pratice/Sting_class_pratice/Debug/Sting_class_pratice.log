@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\curri\onedrive\documents\visual studio 2015\projects\sting_class_pratice\sting_class_pratice\source.cpp(25): warning C4101: 'status': unreferenced local variable
+c:\users\curri\onedrive\documents\visual studio 2015\projects\sting_class_pratice\sting_class_pratice\source.cpp(24): warning C4101: 'i': unreferenced local variable
+  Sting_class_pratice.vcxproj -> C:\Users\Curri\OneDrive\Documents\Visual Studio 2015\Projects\Sting_class_pratice\Debug\Sting_class_pratice.exe
+  Sting_class_pratice.vcxproj -> C:\Users\Curri\OneDrive\Documents\Visual Studio 2015\Projects\Sting_class_pratice\Debug\Sting_class_pratice.pdb (Full PDB)
